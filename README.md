@@ -4,7 +4,7 @@ Mi primer proyecto personal para aprender Git y GitHub.
 
 
 
-\## Sobre este proyecto
+Sobre este proyecto
 
 
 
@@ -16,7 +16,7 @@ mis habilidades como programador.
 
 
 
-\## Objetivos
+Objetivos
 
 
 
@@ -25,4 +25,10 @@ mis habilidades como programador.
 \- Practicar comandos de Git.
 
 \- Crear proyectos personales para mi portafolio.
+
+
+
+En mi primer dia aprendí a utilizar lo básico y esencial de Git para mis futuros proyectos.
+
+
 
